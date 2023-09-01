@@ -1,0 +1,18 @@
+body{
+	background-color:#FAFAD2;
+}
+legend, fieldset{
+	border:4px outset #000000;
+	border-radius:15px;
+	color:#000000;
+	padding:10px;
+	background-image: linear-gradient(to right, #BEADFA, #D0BFFF, #DFCCFB,  #FFF3DA);
+}
+a:link, a:visited{
+	font-weight:bold;
+	text-decoration:none;
+	color:#313866;
+}
+.tautan{
+	font-weight:bolder;
+}

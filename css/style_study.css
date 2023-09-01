@@ -1,0 +1,26 @@
+h2{
+	text-align:center;
+}
+body{
+	background-color:#F4EEEE;
+}
+.table {
+    border-collapse: collapse;
+    width: 60%;
+	background-color: white;
+	text-align:center;
+	margin:0 auto;
+
+}
+.table th, .table td {
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #ddd;
+	text-align:center;
+}
+.table th {
+    background-color: #445069;
+    color: white;
+	text-align:center;
+}
+

@@ -1,0 +1,25 @@
+div#menu{
+	text-align:center;
+}
+body{
+	background-color:#F0E68C;
+}
+a:link, a:visited{
+	font-weight:bold;
+	text-decoration:none;
+	color:#040D12;
+	border:2px solid black;
+	background-color:#CECE5A;
+	padding:5px;
+}
+a:hover{
+	font-weight:bold;
+	text-decoration:none;
+	color:#1D5B79;
+	border:2px dashed black;
+	background-color:#FAF0D7;
+}
+#menu a {
+    margin-right:5px; 
+    margin-left:5px;  
+}
